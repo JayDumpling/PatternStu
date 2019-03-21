@@ -1,0 +1,1331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="StudyGupao:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab7ac658-4a9f-4847-a185-12ebf3373ef5" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/abstractfactory/MIProductFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" selection-start-line="7" selection-end-line="17" selection-end-column="1" />
+              <folding>
+                <element signature="e#216#217#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/abstractfactory/AbstractFactoryTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/abstractfactory/HWProductFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" selection-start-line="7" selection-end-line="17" selection-end-column="1" />
+              <folding>
+                <element signature="e#216#217#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#298#299#0" expanded="true" />
+                <element signature="e#334#335#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/abstractfactory/ITV.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" selection-start-line="7" selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/abstractfactory/MITV.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" selection-start-line="7" selection-end-line="12" selection-end-column="1" />
+              <folding>
+                <element signature="e#192#193#0" expanded="true" />
+                <element signature="e#239#240#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/abstractfactory/HWTV.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" selection-start-line="7" selection-end-line="13" />
+              <folding>
+                <element signature="e#192#193#0" expanded="true" />
+                <element signature="e#239#240#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/abstractfactory/IPhone.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" selection-start-line="7" selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/abstractfactory/MIPhone.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" selection-start-line="7" selection-end-line="12" selection-end-column="1" />
+              <folding>
+                <element signature="e#198#199#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/abstractfactory/HWPhone.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" selection-start-line="7" selection-end-line="12" selection-end-column="1" />
+              <folding>
+                <element signature="e#198#199#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/com/stu/designMode/prototype/Gw_exammingForm.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stu/designMode/prototype/ExamPaper.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stu/designMode/prototype/TestPrototype.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stu/pattern/prototype/TestPrototype.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stu/pattern/factory/simpleFactory/Course.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stu/pattern/factory/simpleFactory/JavaCourse.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stu/pattern/factory/simpleFactory/PythonCourse.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stu/pattern/factory/simpleFactory/CourseFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stu/pattern/factory/factorymethod/CourseFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stu/pattern/factory/factorymethod/JavaCourseFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stu/pattern/factory/factorymethod/PythonFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stu/pattern/factory/factorymethod/FactoryMethodTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stu/pattern/factory/simpleFactory/SimpleFactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stu/pattern/factory/factorymethod/PythonCourseFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/simplefactory/TVProduct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/simplefactory/IProduct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/simplefactory/FridgeProduct.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/simplefactory/ProductFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/simplefactory/SimpleFactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/factorymethod/IProductFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/factorymethod/TVFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/factorymethod/FridgeFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/factorymethod/FactoryMethodTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/abstractfactory/ITV.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/abstractfactory/IFridge.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/abstractfactory/IProductFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/abstractfactory/HWPhone.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/abstractfactory/HWTV.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/abstractfactory/MIPhone.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/abstractfactory/MITV.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/abstractfactory/MIProductFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/abstractfactory/AbstractFactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/abstractfactory/HWProductFactory.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../Server/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="E:\PrivateWork\Server\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-620" />
+    <option name="y" value="80" />
+    <option name="width" value="1555" />
+    <option name="height" value="880" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="StudyGupao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudyGupao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StudyGupao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudyGupao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StudyGupao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudyGupao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StudyGupao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudyGupao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StudyGupao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudyGupao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StudyGupao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudyGupao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="boke" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StudyGupao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudyGupao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="boke" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StudyGupao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudyGupao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="boke" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StudyGupao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudyGupao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="boke" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+              <item name="abstractfactory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StudyGupao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudyGupao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="boke" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+              <item name="factorymethod" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StudyGupao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudyGupao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StudyGupao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudyGupao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StudyGupao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudyGupao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StudyGupao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudyGupao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StudyGupao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudyGupao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="stu" type="462c0819:PsiDirectoryNode" />
+              <item name="pattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StudyGupao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudyGupao" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StudyGupao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudyGupao" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="StudyGupao" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553134041892" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.stu.pattern.factory.factorymethod" />
+      <recent name="com.stu.pattern.factory.simpleFactory" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.boke.pattern.factory.abstractfactory" />
+      <recent name="com.boke.pattern.factory.factorymethod" />
+      <recent name="com.boke.pattern.factory.simplefactory" />
+      <recent name="com.stu.pattern.factory.factorymethod" />
+      <recent name="com.stu.pattern.factory.simpleFactory" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.AbstractFactoryTest">
+    <configuration name="AbstractFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.boke.pattern.factory.abstractfactory.AbstractFactoryTest" />
+      <module name="StudyGupao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.boke.pattern.factory.abstractfactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FactoryMethodTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.boke.pattern.factory.factorymethod.FactoryMethodTest" />
+      <module name="StudyGupao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.boke.pattern.factory.factorymethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FactoryMethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stu.pattern.factory.factorymethod.FactoryMethodTest" />
+      <module name="StudyGupao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stu.pattern.factory.factorymethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stu.pattern.factory.simpleFactory.SimpleFactoryTest" />
+      <module name="StudyGupao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stu.pattern.factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.boke.pattern.factory.simplefactory.SimpleFactoryTest" />
+      <module name="StudyGupao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.boke.pattern.factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 7.0.92" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.92" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8088/StudyGupao_war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="StudyGupao:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/StudyGupao_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_StudyGupao_2" />
+        <option name="HTTP_PORT" value="8088" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="2509" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="StudyGupao:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AbstractFactoryTest" />
+        <item itemvalue="Application.FactoryMethodTest (1)" />
+        <item itemvalue="Application.FactoryMethodTest" />
+        <item itemvalue="Application.SimpleFactoryTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab7ac658-4a9f-4847-a185-12ebf3373ef5" name="Default Changelist" comment="" />
+      <created>1552923801544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552923801544</updated>
+      <workItem from="1552923807949" duration="582000" />
+      <workItem from="1552988903721" duration="8991000" />
+      <workItem from="1553052400814" duration="16260000" />
+      <workItem from="1553088819983" duration="710000" />
+      <workItem from="1553090849231" duration="591000" />
+      <workItem from="1553132504705" duration="2138000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestPrototype_testPrototypeFunc - 2019.03.19 at 19h 41m 26s.xml">
+      <configuration name="TestPrototype.testPrototypeFunc" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPrototype - 2019.03.19 at 19h 41m 51s.xml">
+      <configuration name="TestPrototype" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPrototype_testPrototypeFunc - 2019.03.19 at 19h 42m 13s.xml">
+      <configuration name="TestPrototype.testPrototypeFunc" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestPrototype_testPrototypeFunc - 2019.03.19 at 19h 46m 23s.xml">
+      <configuration name="TestPrototype.testPrototypeFunc" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="29272000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35321715" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="SVN Repositories" weight="0.3297587" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32931727" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23427041" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32931727" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.04021448" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32931727" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.31/fastjson-1.2.31.jar!/com/alibaba/fastjson/JSONObject.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5895">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stu/pattern/prototype/Gw_exammingForm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+          <folding>
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
+            <element signature="e#766#767#0" expanded="true" />
+            <element signature="e#820#821#0" expanded="true" />
+            <element signature="e#849#850#0" expanded="true" />
+            <element signature="e#874#875#0" expanded="true" />
+            <element signature="e#910#911#0" expanded="true" />
+            <element signature="e#938#939#0" expanded="true" />
+            <element signature="e#974#975#0" expanded="true" />
+            <element signature="e#1008#1009#0" expanded="true" />
+            <element signature="e#1060#1061#0" expanded="true" />
+            <element signature="e#1106#1107#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stu/pattern/prototype/ExamPaper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.31/fastjson-1.2.31.jar!/com/alibaba/fastjson/JSON.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="122" lean-forward="true" selection-start-line="122" selection-end-line="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stu/pattern/prototype/TestPrototype.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.stu.pattern.factory.simpleFactory.Course">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.stu.pattern.factory.simpleFactory.Course</OriginalElement>
+          <nodes>
+            <node x="" y="">com.stu.pattern.factory.simpleFactory.SimpleFactoryTest</node>
+            <node x="" y="">com.stu.pattern.factory.simpleFactory.CourseFactory</node>
+            <node x="" y="">com.stu.pattern.factory.simpleFactory.Course</node>
+            <node x="" y="">com.stu.pattern.factory.simpleFactory.PythonCourse</node>
+            <node x="" y="">com.stu.pattern.factory.simpleFactory.JavaCourse</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="44.0" y="95.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stu/pattern/factory/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stu/pattern/factory/JavaCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stu/pattern/factory/factorymethod/PythonFactory.java" />
+    <entry file="jar://E:/MavenRepository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar!/org/slf4j/Logger.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.stu.pattern.factory.factorymethod.CourseFactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.stu.pattern.factory.factorymethod.CourseFactory</OriginalElement>
+          <nodes>
+            <node x="345.88194444444446" y="113.0">com.stu.pattern.factory.JavaCourse</node>
+            <node x="56.7986111111112" y="216.0">com.stu.pattern.factory.factorymethod.PythonCourseFactory</node>
+            <node x="169.88194444444449" y="113.0">com.stu.pattern.factory.factorymethod.CourseFactory</node>
+            <node x="163.00000000000006" y="319.0">com.stu.pattern.factory.factorymethod.FactoryMethodTest</node>
+            <node x="0.0" y="113.0">com.stu.pattern.factory.PythonCourse</node>
+            <node x="344.0347222222223" y="216.0">com.stu.pattern.factory.factorymethod.JavaCourseFactory</node>
+            <node x="249.78472222222226" y="0.0">com.stu.pattern.factory.Course</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.stu.pattern.factory.factorymethod.CourseFactory" target="com.stu.pattern.factory.Course">
+              <point x="0.0" y="-26.5" />
+              <point x="247.88194444444449" y="93.0" />
+              <point x="309.7847222222223" y="93.0" />
+              <point x="-12.0" y="26.5" />
+            </edge>
+            <edge source="com.stu.pattern.factory.factorymethod.JavaCourseFactory" target="com.stu.pattern.factory.factorymethod.CourseFactory">
+              <point x="-52.0" y="-26.5" />
+              <point x="370.0347222222223" y="191.0" />
+              <point x="299.88194444444446" y="191.0" />
+              <point x="52.0" y="26.5" />
+            </edge>
+            <edge source="com.stu.pattern.factory.factorymethod.PythonCourseFactory" target="com.stu.pattern.factory.PythonCourse">
+              <point x="-57.33333333333343" y="-26.5" />
+              <point x="85.46527777777777" y="191.0" />
+              <point x="72.0" y="191.0" />
+              <point x="0.0" y="26.5" />
+            </edge>
+            <edge source="com.stu.pattern.factory.factorymethod.JavaCourseFactory" target="com.stu.pattern.factory.JavaCourse">
+              <point x="0.0" y="-26.5" />
+              <point x="422.0347222222223" y="191.0" />
+              <point x="417.88194444444446" y="191.0" />
+              <point x="0.0" y="26.5" />
+            </edge>
+            <edge source="com.stu.pattern.factory.factorymethod.JavaCourseFactory" target="com.stu.pattern.factory.Course">
+              <point x="52.0" y="-26.5" />
+              <point x="474.0347222222223" y="191.0" />
+              <point x="500.38194444444446" y="191.0" />
+              <point x="500.38194444444446" y="83.0" />
+              <point x="357.7847222222223" y="83.0" />
+              <point x="36.0" y="26.5" />
+            </edge>
+            <edge source="com.stu.pattern.factory.factorymethod.PythonCourseFactory" target="com.stu.pattern.factory.Course">
+              <point x="-5.6843418860808015E-14" y="-26.5" />
+              <point x="142.79861111111114" y="191.0" />
+              <point x="154.5" y="191.0" />
+              <point x="154.5" y="83.0" />
+              <point x="285.7847222222223" y="83.0" />
+              <point x="-36.0" y="26.5" />
+            </edge>
+            <edge source="com.stu.pattern.factory.factorymethod.FactoryMethodTest" target="com.stu.pattern.factory.factorymethod.CourseFactory">
+              <point x="0.0" y="-26.5" />
+              <point x="251.00000000000006" y="294.0" />
+              <point x="247.88194444444449" y="294.0" />
+              <point x="0.0" y="26.5" />
+            </edge>
+            <edge source="com.stu.pattern.factory.factorymethod.PythonCourseFactory" target="com.stu.pattern.factory.factorymethod.CourseFactory">
+              <point x="57.33333333333326" y="-26.5" />
+              <point x="200.13194444444446" y="191.0" />
+              <point x="195.88194444444449" y="191.0" />
+              <point x="-52.0" y="26.5" />
+            </edge>
+            <edge source="com.stu.pattern.factory.factorymethod.FactoryMethodTest" target="com.stu.pattern.factory.Course">
+              <point x="58.666666666666686" y="-26.5" />
+              <point x="309.66666666666674" y="294.0" />
+              <point x="513.0347222222223" y="294.0" />
+              <point x="513.0347222222223" y="73.0" />
+              <point x="381.7847222222223" y="73.0" />
+              <point x="60.0" y="26.5" />
+            </edge>
+            <edge source="com.stu.pattern.factory.factorymethod.FactoryMethodTest" target="com.stu.pattern.factory.factorymethod.PythonCourseFactory">
+              <point x="-58.66666666666663" y="-26.5" />
+              <point x="192.33333333333343" y="294.0" />
+              <point x="142.7986111111112" y="294.0" />
+              <point x="0.0" y="26.5" />
+            </edge>
+            <edge source="com.stu.pattern.factory.PythonCourse" target="com.stu.pattern.factory.Course">
+              <point x="0.0" y="-26.5" />
+              <point x="72.0" y="73.0" />
+              <point x="261.7847222222223" y="73.0" />
+              <point x="-60.0" y="26.5" />
+            </edge>
+            <edge source="com.stu.pattern.factory.JavaCourse" target="com.stu.pattern.factory.Course">
+              <point x="0.0" y="-26.5" />
+              <point x="417.88194444444446" y="93.0" />
+              <point x="333.7847222222223" y="93.0" />
+              <point x="12.0" y="26.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="257.0" y="257.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stu/pattern/factory/simpleFactory/SimpleFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stu/pattern/factory/PythonCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stu/pattern/factory/factorymethod/FactoryMethodTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stu/pattern/factory/simpleFactory/CourseFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stu/pattern/factory/factorymethod/PythonCourseFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.boke.pattern.factory.simplefactory.SimpleFactoryTest">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.boke.pattern.factory.simplefactory.SimpleFactoryTest</OriginalElement>
+          <nodes>
+            <node x="" y="">com.boke.pattern.factory.simplefactory.SimpleFactoryTest</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="78.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.boke.pattern.factory.simplefactory.FridgeProduct">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.boke.pattern.factory.simplefactory.FridgeProduct</OriginalElement>
+          <nodes>
+            <node x="" y="">com.boke.pattern.factory.simplefactory.FridgeProduct</node>
+            <node x="" y="">com.boke.pattern.factory.simplefactory.IProduct</node>
+            <node x="" y="">com.boke.pattern.factory.simplefactory.ProductFactory</node>
+            <node x="" y="">com.boke.pattern.factory.simplefactory.TVProduct</node>
+            <node x="" y="">com.boke.pattern.factory.simplefactory.SimpleFactoryTest</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="131.0" y="130.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stu/pattern/factory/factorymethod/JavaCourseFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.boke.pattern.factory.simplefactory.IProduct">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.boke.pattern.factory.simplefactory.IProduct</OriginalElement>
+          <nodes>
+            <node x="" y="">com.boke.pattern.factory.simplefactory.FridgeProduct</node>
+            <node x="" y="">com.boke.pattern.factory.simplefactory.IProduct</node>
+            <node x="" y="">com.boke.pattern.factory.simplefactory.TVProduct</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="164.0" y="78.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Calendar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="1651" column="38" selection-start-line="1651" selection-start-column="27" selection-end-line="1651" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/MavenRepository/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar!/org/slf4j/LoggerFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="294" column="95" selection-start-line="294" selection-start-column="95" selection-end-line="294" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/stu/pattern/factory/factorymethod/CourseFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/IProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/FridgeProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/simplefactory/SimpleFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/simplefactory/ProductFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/factorymethod/TVFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/factorymethod/FridgeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" selection-start-line="10" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#291#292#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.boke.pattern.factory.factorymethod.FridgeFactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.boke.pattern.factory.factorymethod.FridgeFactory</OriginalElement>
+          <nodes>
+            <node x="" y="">com.boke.pattern.factory.factorymethod.FactoryMethodTest</node>
+            <node x="" y="">com.boke.pattern.factory.IProduct</node>
+            <node x="" y="">com.boke.pattern.factory.factorymethod.TVFactory</node>
+            <node x="" y="">com.boke.pattern.factory.TVProduct</node>
+            <node x="" y="">com.boke.pattern.factory.FridgeProduct</node>
+            <node x="" y="">com.boke.pattern.factory.factorymethod.FridgeFactory</node>
+            <node x="" y="">com.boke.pattern.factory.factorymethod.IProductFactory</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="222.0" y="222.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/factorymethod/FactoryMethodTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/factorymethod/IProductFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/TVProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/abstractfactory/IProductFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/abstractfactory/MIProductFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/abstractfactory/HWProductFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="e#216#217#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/abstractfactory/ITV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/abstractfactory/MITV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/abstractfactory/HWTV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="13" />
+          <folding>
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/abstractfactory/IPhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/abstractfactory/MIPhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/abstractfactory/HWPhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" selection-start-line="7" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.boke.pattern.factory.abstractfactory.HWPhone">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.boke.pattern.factory.abstractfactory.HWPhone</OriginalElement>
+          <nodes>
+            <node x="" y="">com.boke.pattern.factory.abstractfactory.MIProductFactory</node>
+            <node x="" y="">com.boke.pattern.factory.abstractfactory.ITV</node>
+            <node x="" y="">com.boke.pattern.factory.abstractfactory.IPhone</node>
+            <node x="" y="">com.boke.pattern.factory.abstractfactory.AbstractFactoryTest</node>
+            <node x="" y="">com.boke.pattern.factory.abstractfactory.HWProductFactory</node>
+            <node x="" y="">com.boke.pattern.factory.abstractfactory.IProductFactory</node>
+            <node x="" y="">com.boke.pattern.factory.abstractfactory.MITV</node>
+            <node x="" y="">com.boke.pattern.factory.abstractfactory.HWPhone</node>
+            <node x="" y="">com.boke.pattern.factory.abstractfactory.MIPhone</node>
+            <node x="" y="">com.boke.pattern.factory.abstractfactory.HWTV</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="274.5" y="302.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/boke/pattern/factory/abstractfactory/AbstractFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>StudyGupao:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (StudyGupao)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web|StudyGupao</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>com.alibaba:fastjson:1.2.31</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
